@@ -5,6 +5,6 @@
 
 Project was initialy implemented with HTML/CSS/JQuery/Bootstrap 4 - Static Website
 
-## Project Updates to occur in June
+## Project Updates to occur in August
 
  C# functionality with SQL or JavaScript with Express.JS/Node.JS/Heroku Deployment
